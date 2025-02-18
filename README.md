@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="" title="Juanjosealvarez121@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Juanjosealvarez121@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Juanjosealvarez121@gmail.com" alt="Juanjosealvarez121@gmail.com"/></a>
   
   <a href="https://www.linkedin.com/in/juan-jose-carrasco-%C3%A1lvarez-64a88a20a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
