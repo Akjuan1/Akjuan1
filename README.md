@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  <a href="Juanjosealvarez121@gmail.com" title="Gmail">
+  <a href="" title="Juanjosealvarez121@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Juanjosealvarez121@gmail.com" alt="Gmail"/></a>
   
   <a href="https://www.linkedin.com/in/juan-jose-carrasco-%C3%A1lvarez-64a88a20a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
