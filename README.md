@@ -7,6 +7,8 @@
   Este portafolio fue creado para demostrar mi experiencia en el desarrollo de interfaces web modernas y atractivas. Incluye ejemplos de proyectos personales y académicos.
 </p>
 
+Habilidades en...
+
 <p align="left">
 ⚡️ HTML5<br>  
  ⚡️ CSS3<br> 
