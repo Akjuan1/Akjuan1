@@ -8,10 +8,10 @@
 </p>
 
 <p align="left">
-  🦄 HTML5
-  🦄 CSS3
-  🦄 JavaScript
-  🦄 React
+<br>  ⚡️ HTML5
+ <br> ⚡️ CSS3
+<br>  ⚡️ JavaScript
+ <br> ⚡️ React
 </p>
 
 <p align="left">
