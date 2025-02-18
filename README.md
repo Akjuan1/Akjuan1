@@ -4,7 +4,7 @@
 
 <p align="left"> 
   ¡Hola! Este es mi portafolio personal donde muestro mis proyectos y habilidades como desarrollador frontend.<br>
-  Este portfolio fue creado para demostrar mi experiencia en el desarrollo de interfaces web modernas y atractivas. Incluye ejemplos de proyectos personales y académicos.
+  Este portafolio fue creado para demostrar mi experiencia en el desarrollo de interfaces web modernas y atractivas. Incluye ejemplos de proyectos personales y académicos.
 </p>
 
 <p align="left">
