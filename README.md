@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+# Soy Ingeniero de Sistemas y Tambien Programador.
+
 <p align="left"> 
   ¡Hola! Este es mi portafolio personal donde muestro mis proyectos y habilidades como desarrollador frontend.<br>
   Este portfolio fue creado para demostrar mi experiencia en el desarrollo de interfaces web modernas y atractivas. Incluye ejemplos de proyectos personales y académicos.
