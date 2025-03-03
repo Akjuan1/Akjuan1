@@ -13,7 +13,7 @@ Habilidades en...
 ⚡️ HTML5<br>  
  ⚡️ CSS3<br> 
  ⚡️ JavaScript<br> 
-  ⚡️ React
+  ⚡️ React<br>
   ⚡️ Bootstrap
 </p>
 
