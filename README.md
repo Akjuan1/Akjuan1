@@ -14,6 +14,7 @@ Habilidades en...
  ⚡️ CSS3<br> 
  ⚡️ JavaScript<br> 
   ⚡️ React
+  ⚡️ Bootstrap
 </p>
 
 <p align="left">
